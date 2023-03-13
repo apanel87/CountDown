@@ -1,0 +1,10 @@
+.wrapper {
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction:  column;
+}
+
+.output {
+    margin-top: 20px;
+}
